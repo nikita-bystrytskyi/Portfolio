@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm Nikita Bystrytskyi</h1>
 <h3 align="center">A novice QA Tester</h3>
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contact with me:</h3>
 <h4 align ="left"> Email: nekbistr03@gmail.com </h4>
 
 <h3 align="left">Portfolio Files Overview</h3>
